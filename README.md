@@ -313,7 +313,9 @@ In this Workshop you will practice how to migrate your MS SQL DB databases to Am
       GO
       ```
 
-    - ![Miztiik Automation: Database Migration - MS SQL DB to Amazon RDS for SQL Server DB](images/miztiik_architecture_mssql_to_rds_sql_03.png)
+      ![Miztiik Automation: Database Migration - MS SQL DB to Amazon RDS for SQL Server DB](images/miztiik_architecture_mssql_to_rds_sql_initial_load.png)
+
+    _Ignore the two tables created by DMS for validations_
 
     **Replicating Data Changes: CDC**
 
