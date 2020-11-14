@@ -396,7 +396,7 @@ This repository aims to teach api best practices to new developers, Solution Arc
 
 ### 💡 Help/Suggestions or 🐛 Bugs
 
-Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional documentation or solutions, we greatly value feedback and contributions from our community. [Start here](/issues)
+Thank you for your interest in contributing to our project. Whether it is a bug report, new feature, correction, or additional documentation or solutions, we greatly value feedback and contributions from our community. [Start here](/issues)
 
 ### 👋 Buy me a coffee
 
